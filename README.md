@@ -19,5 +19,5 @@ Coming soon.
 Built as a personal project to improve my development skills and create a useful everyday tool.
 
 ## Author
-
+It is my first project only use claude code. I tried vibe coding.
 Created by [foqunty](https://github.com/foqunty)
