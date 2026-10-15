@@ -12,7 +12,7 @@ A simple and minimal Pomodoro timer designed to help you stay focused, build bet
 
 ## Live Demo
 
-Coming soon.
+https://pomodoro-app-iota-gules.vercel.app/ (I don't have enough money :( .)
 
 ## About
 
