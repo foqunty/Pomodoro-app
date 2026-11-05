@@ -1,23 +1,39 @@
-PomodoroApp
+# PomodoroApp
 
-A simple and minimal Pomodoro timer designed to help you stay focused, build better habits, and avoid distractions.
+A calm, minimal Pomodoro timer that helps you stay focused and take regular breaks.
+
+**Live demo:** https://pomodoro-app-iota-gules.vercel.app/
 
 ## Features
 
-* Focus and break timers
-* Ambient sounds and background music
-* Session tracking and progress
-* Minimal, distraction-free interface
-* Works on desktop and mobile
+- Focus, short break and long break sessions (25 / 5 / 15 minutes by default, all adjustable)
+- Your progress is saved in the browser and restored after a refresh
+- Optional background sounds: brown noise, soft noise, rain or a YouTube focus mix
+- Session-complete notifications and a "keep screen awake" option
+- Rotating quotes and small rewards for completed sessions
+- Works offline and can be installed on desktop or mobile (PWA)
 
-## Live Demo
+## Tech stack
 
-https://pomodoro-app-iota-gules.vercel.app/ (I don't have enough money :( .)
+React, TypeScript, Vite, Tailwind CSS and Framer Motion.
+
+## Getting started
+
+Requires Node.js 20 or newer.
+
+```bash
+git clone https://github.com/foqunty/Pomodoro-app.git
+cd Pomodoro-app
+npm install
+npm run dev
+```
+
+Then open http://localhost:5173. Use `npm run build` for a production build.
 
 ## About
 
-Built as a personal project to improve my development skills and create a useful everyday tool.
+This is my first project. I built it with the help of Claude Code to practise web development.
 
-## Author
-It is my first project only use claude code. I tried vibe coding.
-Created by [foqunty](https://github.com/foqunty)
+## License
+
+[MIT](LICENSE) © Sedat Çoban ([foqunty](https://github.com/foqunty))
