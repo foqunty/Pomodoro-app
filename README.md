@@ -4,6 +4,12 @@ A simple focus timer for studying and coding.
 
 **[Live app](https://pomodoro-app-iota-gules.vercel.app/)** · **[Source](https://github.com/foqunty/Pomodoro-app)**
 
+![Focus timer running](docs/screenshots/timer-running.jpg)
+
+| Settings | Short break |
+| --- | --- |
+| ![Settings panel](docs/screenshots/settings.jpg) | ![Short break](docs/screenshots/short-break.jpg) |
+
 ## Why I built it
 
 When I study or write code I lose track of time and forget to take breaks. Most timer apps felt too busy for me, so I wanted to make my own that only does what I need. It is also my first web app, so I used it to learn React and TypeScript and to put something online that other people can use.
